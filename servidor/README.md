@@ -1,3 +1,3 @@
-# alura-typer
-Mini project: A type racer like game
+# TyperGame
 
+Servidor do jogo!!!
